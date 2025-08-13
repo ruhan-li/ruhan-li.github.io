@@ -1,0 +1,13 @@
+title: Raymond Li
+description: Data & Product Analyst | SQL · Python · A/B Testing · Tableau
+theme: jekyll-theme-cayman
+github_username: your-github-username
+email: ruhanli168@gmail.com
+linkedin: https://www.linkedin.com/in/ruhan-li
+footer_links:
+  - text: LinkedIn
+    url: https://www.linkedin.com/in/ruhan-li
+  - text: Email
+    url: mailto:ruhanli168@gmail.com
+  - text: Resume
+    url: resume.pdf
