@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Hi, I'm Raymond 👋
+# Hi, I'm Raymond Li
 
 I'm a **Data & Product Analyst** who turns messy data into clear decisions. I work with **SQL, Python, Tableau/Power BI**, and **experimentation** to ship measurable impact.
 
