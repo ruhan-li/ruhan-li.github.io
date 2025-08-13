@@ -14,7 +14,7 @@ I'm a **Data & Product Analyst** who turns messy data into clear decisions. I wo
 ## Projects
 - **Merchant Conversion ML** - Random Forest/SVM to predict conversion & revenue (Python, scikit‑learn)  
 - **Analytics Modernization** - Self‑serve reporting & KPI tracking (Tableau, Snowflake)  
-- **RAG Chatbot** - GPT‑4 + retrieval for instant doc answers (Streamlit, Python)
+- **RAG Chatbot** - Conversational chatbot for instant doc answers (Python)
 
 See more on the [Projects](/projects) page.
 
