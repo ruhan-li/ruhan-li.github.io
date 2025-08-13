@@ -19,7 +19,8 @@ Developed supervised ML models (**Random Forest, SVM**) to predict merchant conv
 
 ---
 
-## Analytics Modernization
-Led self-serve analytics build-out: unified Snowflake tables, KPI definitions, and dashboards analyzing **100M+** rows. Enabled real-time monitoring and A/B testing readouts.
+## Bank Conversion Prediction
+Built supervised ML models (Random Forest, Logistic Regression) to predict conversion probability.
 
-**Stack:** SQL (Snowflake), Tableau, Python
+**Stack:** Python, pandas, scikit‑learn
+[View on GitHub](https://github.com/your-username/merchant-conversion-prediction)
