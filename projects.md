@@ -31,4 +31,9 @@ Built ML models (Random Forest, Logistic Regression) to predict conversion proba
 
 **Stack:** Python, pandas, scikit‑learn
 
-[View on GitHub](https://github.com/your-username/merchant-conversion-prediction)
+[View on GitHub](https://github.com/ruhan-li/merchant-conversion-prediction)
+
+---
+
+## New Project In Progress
+[View on GitHub](https://github.com/ruhan-li/ruhan-li.github.io/blob/main/Mapping_Automation_Retrieve_Rank.ipynb)
