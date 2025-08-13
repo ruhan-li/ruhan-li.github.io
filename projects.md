@@ -35,5 +35,7 @@ Built ML models (Random Forest, Logistic Regression) to predict conversion proba
 
 ---
 
-## New Project In Progress
-[View on GitHub](https://github.com/ruhan-li/ruhan-li.github.io/blob/main/Mapping_Automation_Retrieve_Rank.ipynb)
+## Data Attribute Mapping Automation
+Built an NLP-based tool to automatically match source and target data attributes for system migrations. Combined TF-IDF, character n-grams, and Levenshtein distance to rank candidate mappings with confidence scores, reducing manual effort by ~80%.
+
+**Stack:** Python, pandas, scikit-learn, rapidfuzz
